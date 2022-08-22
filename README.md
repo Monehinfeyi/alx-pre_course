@@ -1,2 +1,2 @@
 # My second readme
-## just a few update.
+## just a few update
